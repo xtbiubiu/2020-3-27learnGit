@@ -11,6 +11,7 @@ import com.baizhi.xt.entity.Address;
 import com.baizhi.xt.service.AddressServiceImpl;
 
 //这是我练习git用的代码
+//再次修改 2002/3/27 14：09
 public class AddressAction {
 	
 	 private String addid;
