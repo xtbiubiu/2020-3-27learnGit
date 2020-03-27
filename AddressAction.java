@@ -10,7 +10,7 @@ import org.apache.struts2.ServletActionContext;
 import com.baizhi.xt.entity.Address;
 import com.baizhi.xt.service.AddressServiceImpl;
 
-
+//这是我练习git用的代码
 public class AddressAction {
 	
 	 private String addid;
